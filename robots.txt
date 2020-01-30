@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://aamahteida.ronkeizer.com/sitemap.xml
